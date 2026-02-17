@@ -5,5 +5,5 @@
 2. motivacion: aprender cosas utiles de mi carrera que ya deberia de saber xd
 
 3. Diagrama E-R
-![alt text](image-url)
+![alt text](https://github.com/Jexbm/Para-practicar/blob/main/Blank%20diagram.pdf)
 4. Diagrama E-R en ULM
