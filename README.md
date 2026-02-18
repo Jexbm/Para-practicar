@@ -1,6 +1,6 @@
 # FDB_Agenda_para_rentas
 
-1. Descripcion: Este proyecto busca no solo facilitar la forma en la que se agenda el mobiliarioo sino que tambien busque ayudar a comprender de mejor manera como funciona una base de datos y que mejor forma de comprender que hacerlo.
+1. Descripcion: Este proyecto busca no solo facilitar la forma en la que se agenda el mobiliario sino que tambien busca ayudarme a comprender de mejor manera como funciona una base de datos y que mejor forma de comprender que hacerlo.
  
 2. motivacion: Mas que nada aprender cosas utiles de mi carrera, ya que posiblemente lo utilice en un futuro si todo sale bien, tener ya el conocimiento se aprecia la verdad y si me equivoco queda como experiencia pero esperemos que todo salga bien xd
 
