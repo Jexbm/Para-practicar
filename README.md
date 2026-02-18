@@ -7,4 +7,4 @@
 3. Diagrama E-R
 ![alt text](https://github.com/Jexbm/Para-practicar/blob/main/Diagrama_page-0001.jpg)
 4. Diagrama E-R en ULM
-![alt text](https://github.com/Jexbm/Para-practicar/edit/main/README.md)
+![alt text](https://github.com/Jexbm/Para-practicar/blob/main/Diagrama%20E-R%20(ULM)%20(1).png)
